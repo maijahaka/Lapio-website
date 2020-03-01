@@ -1,1 +1,19 @@
-p { background-color: red; }
+h1 {
+    color: blue;
+}
+
+ul {
+    color: purple;
+}
+
+.jatkuu {
+    color: red;
+}
+
+p {
+    color: maroon;
+}
+
+h2 {
+    color: maroon;
+}
